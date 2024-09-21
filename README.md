@@ -83,7 +83,7 @@ Create a document that explains the following:
 
 # Example Nmap Results for Portfolio
 
-_screenshot of Nmap results_
+<pre>  _screenshot of Nmap results_ </pre>
 
 **Conclusion**
 After completing the Nmap scan, summarize your findings.
