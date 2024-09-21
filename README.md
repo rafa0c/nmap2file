@@ -50,6 +50,12 @@ Here are a few examples:
 
 <pre>  nmap -O [target IP]  </pre>
 
+- Aggressive scan (includes OS detection, version detection, script scanning, and traceroute):
+
+<pre>  nmap -A [target IP] </pre>
+
+  
+
 
 
 
