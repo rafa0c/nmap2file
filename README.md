@@ -85,6 +85,12 @@ Create a document that explains the following:
 
 _screenshot of Nmap results_
 
+**Conclusion**
+After completing the Nmap scan, summarize your findings.
+Highlight any vulnerabilities detected, such as open ports or services that are exploitable (e.g., outdated software, insecure services like FTP or Telnet).
+Discuss possible attack vectors or defensive strategies to mitigate these risks.
+
+
 
 
 
