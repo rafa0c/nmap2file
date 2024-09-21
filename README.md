@@ -26,8 +26,8 @@ Once your setup is complete, you can use Nmap from the Kali Linux machine to sca
 
 1. **Find Metasploitable 2 IP Address:**
 
-Start Metasploitable 2 in VirtualBox.
-Run the following command inside Metasploitable 2 to find the IP address:
+Start Metasploitable2 in VirtualBox.
+Run the following command inside Metasploitable2 to find the IP address:
 
 <pre>  ifgonfig  </pre>
 
