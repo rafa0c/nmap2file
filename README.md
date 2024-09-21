@@ -38,19 +38,19 @@ Run the following command inside the Metasploitable2 virtual mach ine to find th
 In Kali Linux, open a terminal and run an Nmap scan targeting Metasploitable 2’s IP address. You can use different scan types depending on what you want to demonstrate.
 Here are a few examples:
 
-- Basic scan (find open ports):
+- **Basic scan**(find open ports):
 
 <pre>  nmap [target IP]  </pre>
 
-- Service version detection:
+- **Service version detection**:
 
 <pre>  nmap -sV [target IP]  </pre>
 
-- Operating system detection:
+- **Operating system detection**:
 
 <pre>  nmap -O [target IP]  </pre>
 
-- Aggressive scan (includes OS detection, version detection, script scanning, and traceroute):
+- **Aggressive scan** (includes OS detection, version detection, script scanning, and traceroute):
 
 <pre>  nmap -A [target IP] </pre>
 
