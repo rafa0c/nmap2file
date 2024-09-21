@@ -75,10 +75,15 @@ Save these screenshots to include in your portfolio documentation.
 3. Write-Up:
 
 Create a document that explains the following:
-The purpose of using Nmap and what you are testing for.
-A summary of the results (e.g., open ports, detected services, and their versions).
-Any interesting findings or vulnerabilities discovered on Metasploitable 2.
-Attach the Nmap output files and screenshots to support your findings.
+
+- The purpose of using Nmap and what you are testing for.
+- A summary of the results (e.g., open ports, detected services, and their versions).
+- Any interesting findings or vulnerabilities discovered on Metasploitable 2.
+- Attach the Nmap output files and screenshots to support your findings.
+
+# Example Nmap Results for Portfolio
+
+_screenshot of Nmap results_
 
 
 
