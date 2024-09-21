@@ -42,9 +42,15 @@ Here are a few examples:
 
 <pre>  nmap [target IP]  </pre>
 
--Service version detection:
+- Service version detection:
 
 <pre>  nmap -sV [target IP]  </pre>
+
+- Operating system detection:
+
+<pre>  nmap -O [target IP]  </pre>
+
+
 
 
   
