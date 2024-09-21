@@ -83,7 +83,7 @@ Create a document that explains the following:
 
 # 📷  Example Nmap Results 
 
-<pre>  _screenshot of Nmap results_ </pre>
+<pre>  _**screenshot of Nmap results**_ </pre>
 
 **Conclusion**
 After completing the Nmap scan, summarize your findings.
