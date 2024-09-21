@@ -31,6 +31,15 @@ Run the following command inside the Metasploitable2 virtual mach ine to find th
 
 <pre>  ifgonfig  </pre>
 
+- Look for the IP under the inet addr section for eth0 (typically something like 192.168.x.x).
+
+2. **Nmap Scan on Kali Linux:**
+
+In Kali Linux, open a terminal and run an Nmap scan targeting Metasploitable 2’s IP address. You can use different scan types depending on what you want to demonstrate.
+Here are a few examples:
+
+- Basic scan (find open ports):
+
 
 
 
