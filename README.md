@@ -54,6 +54,15 @@ Here are a few examples:
 
 <pre>  nmap -A [target IP] </pre>
 
+3. Save Results to a File:
+
+You can save your Nmap scan results to a file using the -oN or -oX option.
+Example: 
+
+<pre>  nmap -A [target IP] -oN scan_results.txt </pre>
+
+
+
   
 
 
