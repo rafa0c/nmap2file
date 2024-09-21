@@ -40,6 +40,10 @@ Here are a few examples:
 
 - Basic scan (find open ports):
 
+<pre>  nmap [target IP]  </pre>
+  
+
+
 
 
 
