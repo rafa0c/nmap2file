@@ -9,9 +9,9 @@
 Download and install VirtualBox on your machine.
 Create virtual machines for both Kali Linux (attacker machine) and Metasploitable 2 (vulnerable target).
 
-2. Set Up Metasploitable 2:
+2. Set Up Metasploitable2:
 
-Download and install Metasploitable 2 from the official repository.
+Download and install Metasploitable2 from the official repository.
 Ensure that both the Kali Linux and Metasploitable 2 VMs are on the same network (NAT or host-only network) so that they can communicate.
 
 3. Set Up Kali Linux:
