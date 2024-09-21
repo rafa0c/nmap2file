@@ -22,7 +22,7 @@ Update the system by running the following commands:
 <pre>   sudo apt update && sudo apt upgrade  </pre>
 
 ## Scanning with Nmap
-Once your setup is complete, you can use Nmap from the Kali Linux machine to scan the Metasploitable 2 machine.
+Once your setup is complete, you can use Nmap from the Kali Linux machine to scan the Metasploitable2 machine.
 
 1. **Find Metasploitable 2 IP Address:**
 
