@@ -19,7 +19,7 @@ Ensure that both the Kali Linux and Metasploitable 2 VMs are on the same network
 Download Kali Linux from the official website and install it on VirtualBox.
 Update the system by running the following commands:
 
-<pre> ```  sudo apt update && sudo apt upgrade ``` </pre>
+<pre>   sudo apt update && sudo apt upgrade  </pre>
 
 
 
