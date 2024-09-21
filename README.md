@@ -41,6 +41,12 @@ Here are a few examples:
 - Basic scan (find open ports):
 
 <pre>  nmap [target IP]  </pre>
+
+-Service version detection:
+
+<pre>  nmap -sV [target IP]  </pre>
+
+
   
 
 
