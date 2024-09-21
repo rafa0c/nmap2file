@@ -56,12 +56,12 @@ Here are a few examples:
 
 3. **Save Results to a File**:
 
-You can save your Nmap scan results to a file using the -oN or -oX option.
+ 💾 You can save your Nmap scan results to a file using the -oN or -oX option.
 **_Example_**: 
 
 <pre>  nmap -A [target IP] -oN scan_results.txt </pre>
 
-#  Adding Nmap Results to Your Portfolio
+#  Adding Nmap Results
 1. **Organize Files**:
 
 Include the Nmap output files (both .txt and .xml if available) in your portfolio.
