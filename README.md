@@ -61,17 +61,18 @@ You can save your Nmap scan results to a file using the -oN or -oX option.
 
 <pre>  nmap -A [target IP] -oN scan_results.txt </pre>
 
-#Adding Nmap Results to Your Portfolio
-**Organize Files**:
+#  Adding Nmap Results to Your Portfolio
+1. **Organize Files**:
 
 Include the Nmap output files (both .txt and .xml if available) in your portfolio.
 Add a brief explanation of the results and how they could be useful in vulnerability analysis.
 
-**Screenshot Your Process**:
+2. **Screenshot Your Process**:
 
 Take screenshots of running the Nmap scan in Kali Linux and discovering open ports and services on Metasploitable 2.
 Save these screenshots to include in your portfolio documentation.
-Write-Up:
+
+3. Write-Up:
 
 Create a document that explains the following:
 The purpose of using Nmap and what you are testing for.
