@@ -1,8 +1,8 @@
 - <a href="https://github.com/rafa0c">Home Portfolio</a>
 
-## 🛡️ Scanning with Nmap
+# 🛡️ Scanning with Nmap
 
-# Setup and Prerequisites
+## Setup and Prerequisites
 Install VirtualBox:
 
 Download and install VirtualBox on your machine.
